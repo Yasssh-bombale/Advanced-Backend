@@ -1,0 +1,11 @@
+{
+  "name": "advanceed-backend-project",
+  "version": "1.0.0",
+  "description": "\"Implimenting Advanced Backend Concepts\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YashBombale",
+  "license": "ISC"
+}
