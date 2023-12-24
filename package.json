@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "\"Implimenting Advanced Backend Concepts\"",
   "main": "index.js",
+  "type": "module",
   "scripts": {
+    "start": "nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "YashBombale",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.0.3"
+  }
 }
